@@ -1,2 +1,7 @@
 https://trello.com/invite/b/687514f32ac44b9b3bfe7a10/ATTIb0885e2b221d67a7c9ef90b11a682c2137DC6956/sleep-outside-team-5
+
+<<<<<<<•HEAD
 Dantto Hermosilla
+ =======
+
+ >>>>>>> main
